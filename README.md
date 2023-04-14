@@ -1,2 +1,2 @@
-# Snake-and-Ladder-Project
-SNAKE AND LADDER PROJECT IN JAVA
+# Snake-and-Ladder-App
+SNAKE AND LADDER APPLICATION USING Java, JavaFx
